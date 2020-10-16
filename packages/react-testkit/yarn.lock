@@ -11,13 +11,13 @@
     minimist "1.2.5"
     trash-cli "3.0.0"
 
-"@kcinternal/configuration@0.8.11":
-  version "0.8.11"
-  resolved "https://registry.yarnpkg.com/@kcinternal/configuration/-/configuration-0.8.11.tgz#d75fbe265c6a94beba6c21694e104a6366d99382"
-  integrity sha512-K95icbcAIVvK/HWJyeHsnzTnl2UScqRjFah+e4qJ2WbFvYARynXt2dH+b1yZRurNBv6Ln7hexOENRWnIkYLbOg==
+"@kcinternal/configuration@0.8.12":
+  version "0.8.12"
+  resolved "https://registry.yarnpkg.com/@kcinternal/configuration/-/configuration-0.8.12.tgz#58e036ce31b6e34e0965e6691908f5402d7dea9b"
+  integrity sha512-vlQQGvEVX1LNuCuMKEXKwmfhYFlVzPxLJCqb4bXn3EVGlJ+yc9mNIZ3wbXNhL+O93Ur080Iuiwmpp7AxYfi6Ng==
   dependencies:
     "@kcinternal/commandline" "0.17.2"
-    "@types/eslint" "7.2.2"
+    "@types/eslint" "7.2.4"
     "@types/webpack" "4.41.22"
     jest-html-reporters "2.0.4"
     webpack "4.44.1"
@@ -91,18 +91,18 @@
   dependencies:
     "@types/enzyme" "*"
 
-"@types/enzyme@*", "@types/enzyme@3.10.6":
-  version "3.10.6"
-  resolved "https://registry.yarnpkg.com/@types/enzyme/-/enzyme-3.10.6.tgz#a34a6b09ff732be29c194dc8d786555f4717fd85"
-  integrity sha512-Jxyn2U+UfhmrE7EaeZYfV1sPA5OEDuZmg9Lxj8TxOnfCn71flf0Cn1136LWdCVYj7yapLFmUWqKCcgplWNZCJg==
+"@types/enzyme@*", "@types/enzyme@3.10.7":
+  version "3.10.7"
+  resolved "https://registry.yarnpkg.com/@types/enzyme/-/enzyme-3.10.7.tgz#ebdf3b972d293095e09af479e36c772025285e3a"
+  integrity sha512-J+0wduPGAkzOvW7sr6hshGv1gBI3WXLRTczkRKzVPxLP3xAkYxZmvvagSBPw8Z452fZ8TGUxCmAXcb44yLQksw==
   dependencies:
     "@types/cheerio" "*"
     "@types/react" "*"
 
-"@types/eslint@7.2.2":
-  version "7.2.2"
-  resolved "https://registry.yarnpkg.com/@types/eslint/-/eslint-7.2.2.tgz#c88426b896efeb0b2732a92431ce8aa7ec0dee61"
-  integrity sha512-psWuwNXuKR2e6vMU5d2qH0Kqzrb2Zxwk+uBCF2LsyEph+Nex3lFIPMJXwxfGesdtJM2qtjKoCYsyh76K3x9wLg==
+"@types/eslint@7.2.4":
+  version "7.2.4"
+  resolved "https://registry.yarnpkg.com/@types/eslint/-/eslint-7.2.4.tgz#d12eeed7741d2491b69808576ac2d20c14f74c41"
+  integrity sha512-YCY4kzHMsHoyKspQH+nwSe+70Kep7Vjt2X+dZe5Vs2vkRudqtoFoUIv1RlJmZB8Hbp7McneupoZij4PadxsK5Q==
   dependencies:
     "@types/estree" "*"
     "@types/json-schema" "*"

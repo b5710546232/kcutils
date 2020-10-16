@@ -56,7 +56,7 @@
   "devDependencies": {
     "@kcinternal/commandline": "0.17.2",
     "@kcinternal/configuration": "0.8.12",
-    "@types/enzyme": "3.10.6",
+    "@types/enzyme": "3.10.7",
     "@types/enzyme-adapter-react-16": "1.0.6"
   }
 }
